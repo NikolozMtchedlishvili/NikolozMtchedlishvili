@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 Year-1 Dual Degree student (Business Administration + Computer Science & AI) at IE University.
+
 Interested in backend development, Python, APIs, and fintech/product engineering internships.
 
 <!--
