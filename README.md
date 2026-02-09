@@ -2,7 +2,10 @@
 
 Year-1 Dual Degree student (Business Administration + Computer Science & AI) at IE University.
 
-Interested in backend development, Python, APIs, and fintech/product engineering internships.
+I build backend-focused applications using Python, JavaScript, and APIs, with real-world projects in e-commerce payments, data-driven market analysis, and automated news platforms.
+
+Currently seeking software engineering / backend / data internships where I can contribute to production-level systems.
+
 
 <!--
 **NikolozMtchedlishvili/NikolozMtchedlishvili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
