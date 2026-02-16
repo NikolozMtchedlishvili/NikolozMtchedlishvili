@@ -6,6 +6,7 @@ Founder & MD of Locomotive-Alpha Partners: 55.33% TWR vs S&P 500 (VOO)'s TWR of 
 strategy. 
 
 Solo developer of a full-stack payment wallet with live REST API integrations into Bank of Georgia. 
+
 Python · JavaScript · REST APIs · Financial Data Research.
 
 
