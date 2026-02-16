@@ -7,7 +7,7 @@ strategy.
 
 Solo developer of a full-stack payment wallet with live REST API integrations into Bank of Georgia. 
 
-Python · JavaScript · REST APIs · Financial Data Research.
+'Python · JavaScript · REST APIs · Financial Data Research.'
 
 
 <!--
