@@ -2,8 +2,7 @@
 
 Year-1 Dual Degree (BBA + CS/AI) at IE University — IE Foundation Fellow. 
 
-Founder & MD of Locomotive-Alpha Partners: 55.33% TWR vs S&P 500 (VOO)'s TWR of 17.82% in 2025 (≈3.1x outperformance) through macro and geopolitical-driven ETF
-strategy. 
+Founder & MD of Locomotive-Alpha Partners: 55.33% TWR vs S&P 500 (VOO)'s TWR of 17.82% in 2025 (≈3.1x outperformance) through macro and geopolitical-driven strategy. 
 
 Solo developer of a full-stack payment wallet with live REST API integrations into Bank of Georgia. 
 
