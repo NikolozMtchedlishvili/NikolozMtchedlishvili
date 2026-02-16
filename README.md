@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-Year-1 Dual Degree student (Business Administration + Computer Science & AI) at IE University.
-
-I build backend-focused applications using Python, JavaScript, and APIs, with real-world projects in e-commerce payments, data-driven market analysis, and automated news platforms.
-
-Currently seeking software engineering / backend / data internships where I can contribute to production-level systems.
+Year-1 Dual Degree (BBA + CS/AI) at IE University — IE Foundation Fellow. Founder & MD of Locomotive-Alpha
+Partners: 55.33% TWR vs S&P 500 (VOO)'s TWR of 17.82% in 2025 (≈3.1x outperformance) through macro and geopolitical-driven ETF
+strategy. Solo developer of a full-stack payment wallet with live REST API integrations into Bank of Georgia. Python · JavaScript · REST APIs · Financial Data Research.
 
 
 <!--
