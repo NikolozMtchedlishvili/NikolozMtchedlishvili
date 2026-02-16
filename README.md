@@ -7,6 +7,8 @@ strategy.
 
 Solo developer of a full-stack payment wallet with live REST API integrations into Bank of Georgia. 
 
+Open to finance, quant research, and fintech engineering internships
+
 `Python · JavaScript · REST APIs · Financial Data Research.`
 
 
